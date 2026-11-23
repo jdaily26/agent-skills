@@ -1,0 +1,4 @@
+interface:
+  display_name: "NayewayPRAgent"
+  short_description: "Find interview leads and draft pitches for Nayeway"
+  default_prompt: "Use $nayeway-pr-agent to find podcast and blog interview leads for Nayeway and show the full pitch for each."

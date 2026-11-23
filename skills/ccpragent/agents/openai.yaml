@@ -1,0 +1,4 @@
+interface:
+  display_name: "CCPRAgent"
+  short_description: "Find interview leads for a handmade jewelry studio"
+  default_prompt: "Use $ccpragent to find fresh blog and podcast interview leads for CC Studio and show the full pitch for each."
