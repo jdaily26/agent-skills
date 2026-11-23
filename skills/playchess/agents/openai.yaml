@@ -1,0 +1,4 @@
+interface:
+  display_name: "Play Chess"
+  short_description: "Choose your next move and anticipate the reply"
+  default_prompt: "Use $playchess on the decision we are discussing."
